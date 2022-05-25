@@ -1,1 +1,2 @@
 Añadimos primera línea al documento.
+Añadimos segunda linea al documento desde GitHub
